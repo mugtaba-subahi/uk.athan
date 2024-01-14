@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "14eca3e7-e6ea-4e31-a124-09281c7fa627"
+      }
+    },
+    "owner": "mugtaba"
   }
 }
